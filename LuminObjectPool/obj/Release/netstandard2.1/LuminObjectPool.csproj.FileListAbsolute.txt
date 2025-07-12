@@ -1,0 +1,9 @@
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\bin\Release\netstandard2.1\LuminObjectPool.deps.json
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\bin\Release\netstandard2.1\LuminObjectPool.dll
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\bin\Release\netstandard2.1\LuminObjectPool.pdb
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\obj\Release\netstandard2.1\LuminObjectPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\obj\Release\netstandard2.1\LuminObjectPool.AssemblyInfoInputs.cache
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\obj\Release\netstandard2.1\LuminObjectPool.AssemblyInfo.cs
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\obj\Release\netstandard2.1\LuminObjectPool.csproj.CoreCompileInputs.cache
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\obj\Release\netstandard2.1\LuminObjectPool.dll
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\obj\Release\netstandard2.1\LuminObjectPool.pdb

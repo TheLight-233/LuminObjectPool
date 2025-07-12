@@ -1,0 +1,11 @@
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\bin\Release\net8.0\LuminObjectPool.deps.json
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\bin\Release\net8.0\LuminObjectPool.dll
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\bin\Release\net8.0\LuminObjectPool.pdb
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\obj\Release\net8.0\LuminObjectPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\obj\Release\net8.0\LuminObjectPool.AssemblyInfoInputs.cache
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\obj\Release\net8.0\LuminObjectPool.AssemblyInfo.cs
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\obj\Release\net8.0\LuminObjectPool.csproj.CoreCompileInputs.cache
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\obj\Release\net8.0\LuminObjectPool.dll
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\obj\Release\net8.0\refint\LuminObjectPool.dll
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\obj\Release\net8.0\LuminObjectPool.pdb
+C:\Users\28027\Desktop\C#\LuminObjectPool\LuminObjectPool\obj\Release\net8.0\ref\LuminObjectPool.dll

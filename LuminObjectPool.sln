@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuminObjectPool", "LuminObjectPool\LuminObjectPool.csproj", "{B03DB50D-C0B4-498A-9CF8-0E89F5C56EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03DB50D-C0B4-498A-9CF8-0E89F5C56EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03DB50D-C0B4-498A-9CF8-0E89F5C56EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03DB50D-C0B4-498A-9CF8-0E89F5C56EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03DB50D-C0B4-498A-9CF8-0E89F5C56EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
