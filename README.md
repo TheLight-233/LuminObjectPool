@@ -27,7 +27,7 @@
 
     static bool IPooledObjectPolicy<Item>.Return(Item obj) => true; //Return策略
 #else
-    private sealed class LuminTaskPoolPolicy : IPooledObjectPolicy<Item>
+    private sealed class PoolPolicy : IPooledObjectPolicy<Item>
     {
         public Item Create() => new();
 
