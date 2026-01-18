@@ -4,7 +4,7 @@
 
 #### 使用方法：
 
-1.  导入cs代码文件或引用dll
+1.  Nuget安装或导入cs代码文件或引用dll
 2.  .Net8以上，存入物品池的Class或Struct需要继承IPooledObjectPolicy\<T>并实现静态方法
 3.  .Net Standard2.1版本，需要单例定义一个类继承 IPooledObjectPolicy\<T>，以此作为池的策略注入到ObjectPool。这与微软的Microsoft.Extension.ObjectPool插件相同
 
