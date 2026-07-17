@@ -7,9 +7,32 @@
         <TargetFrameworks>netstandard2.1;net8.0;net9.0</TargetFrameworks>
         <RootNamespace>LuminObjectPool</RootNamespace>
         <NoWarn>$(NoWarn);CS1591;CA2255</NoWarn>
+
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>LuminObjectPool</PackageId>
+        <Version>1.0.1</Version>
+        <Authors>TheLight233</Authors>
+        <Description>High-Performance Item Cache Pool Based on C#</Description>
+        <PackageTags>pooling;high-performance</PackageTags>
+        <PackageProjectUrl>https://github.com/TheLight-233/LuminObjectPool</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/TheLight-233/LuminObjectPool.git</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <IncludeSymbols>true</IncludeSymbols>
+        <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        
     </PropertyGroup>
 
+    <ItemGroup>
+        <None Include="README.md" Pack="true" PackagePath="\"/>
+    </ItemGroup>
+    
     <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+      <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
       <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     </PropertyGroup>
 
