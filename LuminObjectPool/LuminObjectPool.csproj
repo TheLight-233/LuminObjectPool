@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <ImplicitUsings>enable</ImplicitUsings>
@@ -10,10 +10,10 @@
 
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageId>LuminObjectPool</PackageId>
-        <Version>1.0.1</Version>
+        <Version>2.0.0</Version>
         <Authors>TheLight233</Authors>
-        <Description>High-Performance Item Cache Pool Based on C#</Description>
-        <PackageTags>pooling;high-performance</PackageTags>
+        <Description>High-performance object pool library with selectable concurrency strategies: thread-local atomic slots, MPMC ring buffer, MPSC/SPMC/SPSC rings, and a single-threaded pool. Configured with delegates instead of policy types.</Description>
+        <PackageTags>pooling;object-pool;high-performance;lock-free;ring-buffer;mpsc;spmc;spsc;unity</PackageTags>
         <PackageProjectUrl>https://github.com/TheLight-233/LuminObjectPool</PackageProjectUrl>
         <RepositoryUrl>https://github.com/TheLight-233/LuminObjectPool.git</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
@@ -25,7 +25,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <None Include="README.md" Pack="true" PackagePath="\"/>
+        <None Include="..\README.md" Pack="true" PackagePath="\"/>
     </ItemGroup>
     
     <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">

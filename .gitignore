@@ -1,0 +1,20 @@
+# 构建输出
+bin/
+obj/
+
+# IDE
+.idea/
+.vs/
+*.user
+
+# 本地开发解决方案：含测试、基准与兼容性工程，不随仓库发布
+LuminObjectPool.Dev.sln
+
+# 不随仓库发布的内容
+LuminObjectPool.Tests/
+LuminObjectPool.Benchmarks/
+LuminObjectPool.CompatibilityTests/
+BENCHMARKS.md
+
+# 反汇编导出（v1 基准工具产物）
+*-disassembly.txt
